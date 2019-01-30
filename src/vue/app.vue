@@ -19,6 +19,7 @@
 
 
 <style lang="scss">
+    @import '@styles/index.scss';
     @import '@styles/variables.scss';
 
     .app {
